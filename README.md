@@ -1,0 +1,2 @@
+# QASystemOnHepatopathyKG
+基于neo4j肝病知识图谱的问答系统
